@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Katte</h1>
 <h3 align="center">A Windows Administartor and i want to become a software developer</h3>
 <img alt="Loading" width="100%" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityarajput732&label=Profile%20views&color=0e75b6&style=flat" alt="Akkian57" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akkian57&label=Profile%20views&color=0e75b6&style=flat" alt="Akkian57" /> </p>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -12,7 +12,7 @@
 
 <p align="left"> 
   <a href="https://twitter.com/Akkian57" target="blank">
-    <img src="https://img.shields.io/twitter/follow/adityar60698765?logo=twitter&style=for-the-badge" alt="Akkian57" />
+    <img src="https://img.shields.io/twitter/follow/Akkian57?logo=twitter&style=for-the-badge" alt="Akkian57" />
   </a> 
 </p>
 
