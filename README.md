@@ -35,15 +35,15 @@
   </a>
   
   <a href="https://linkedin.com/in/akkian/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-gener ator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-raj-aa2588243" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-gener ator/master/src/images/icons/Social/linked-in-alt.svg" alt="akkian" height="30" width="40" />
   </a>
   
-  <a href="https://fb.com/raj aditya kunwar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raj aditya kunwar" height="30" width="40" />
+  <a href="https://fb.com/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Akkian" height="30" width="40" />
   </a>
   
-  <a href="https://instagram.com/raj_kunwar_singh_073" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"              alt="raj_kunwar_singh_073" height="30" width="40" />
+  <a href="https://instagram.com/mi.akshya" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"              alt="mi.akshya" height="30" width="40" />
   </a>
   
 <!-- <a href="https://www.youtube.com/c/@user-zu2fp6zf3h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@user-zu2fp6zf3h" height="30" width="40" /></a>
@@ -91,9 +91,9 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityarajput732&show_icons=true&locale=en&layout=compact" alt="adityarajput732" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akkian57&show_icons=true&locale=en&layout=compact" alt="akkian57" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityarajput732&show_icons=true&locale=en" alt="adityarajput732" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akkian57&show_icons=true&locale=en" alt="Akkian57" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityarajput732&" alt="adityarajput732" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akkian57&" alt="Akkian57" /></p>
